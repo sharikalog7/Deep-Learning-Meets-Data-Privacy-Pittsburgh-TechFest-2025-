@@ -6,7 +6,7 @@ A comprehensive collection of resources, codebases, and tutorials for learning a
 
 Differential Privacy (DP) is a mathematical framework for quantifying and limiting privacy risks when analyzing or sharing data. It ensures that the inclusion or exclusion of a single individual's data does not significantly affect the outcome of any analysis — typically achieved by introducing carefully calibrated randomness.
 
-✳️ Core Concepts
+## ✳️ Core Concepts
 
 Privacy Budgets (ε, δ) — quantify privacy loss and guarantee.
 
@@ -18,7 +18,7 @@ DP-SGD (Differentially Private Stochastic Gradient Descent) — the cornerstone 
 
 Privacy-Utility Trade-offs — balancing accuracy with privacy guarantees.
 
-🧠 Applications
+## 🧠 Applications
 
 Secure statistical analysis & data aggregation
 
@@ -30,7 +30,7 @@ Differentially private large language models (LLMs)
 
 Healthcare and sensitive data analytics
 
-🧰 Libraries and Codebases
+## 🧰 Libraries and Codebases
 Library	Language	Description
 Google Differential Privacy Library
 	C++ / Go / Java	Production-grade tools for aggregate data analysis under DP guarantees.
@@ -42,7 +42,8 @@ Apple Differential Privacy
 	Python	Implements Apple's approach to locally DP data collection.
 TensorFlow Privacy
 	Python	TensorFlow toolkit for training ML models with DP-SGD and noise accounting.
-📘 Tutorials and Example Models
+	
+## 📘 Tutorials and Example Models
 Tutorial	Framework	Description
 Flower: Training with Sample-Level Differential Privacy
 	TensorFlow	Federated learning + DP example.
