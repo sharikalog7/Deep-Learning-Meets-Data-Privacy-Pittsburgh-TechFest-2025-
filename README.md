@@ -5,7 +5,7 @@ _A talk on the intersection of modern AI and privacy-preserving technologies_
 ---
 
 ### 🎞️ Presentation
-- **[Download Slides (PPTX)](./DeepLearning_Meets_DataPrivacy.pptx)**  
+- **[Download Slides (PPTX)](./[DeepLearning_Meets_DataPrivacy.pptx](https://pitt-my.sharepoint.com/:p:/g/personal/shl309_pitt_edu/EQCqQWOoIQ9HoV0FUAewbh8B9EvrmpGFFUUR2W2LewsY6g?e=XOd8LH))**  
 - **[View PDF Version](./DeepLearning_Meets_DataPrivacy.pdf)**  
 
 ---
