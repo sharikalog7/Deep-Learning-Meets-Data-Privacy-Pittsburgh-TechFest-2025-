@@ -1,88 +1,61 @@
-# Differential-Privacy
+## 📚 References & Resources  
+*Deep Learning Meets Data Privacy*  
+_A talk on the intersection of modern AI and privacy-preserving technologies_
 
-A comprehensive collection of resources, codebases, and tutorials for learning and applying Differential Privacy (DP) — from foundational theory to state-of-the-art implementations in modern machine learning.
+---
 
-## 🔍 Overview
+### 🎞️ Presentation
+- **[Download Slides (PPTX)](./DeepLearning_Meets_DataPrivacy.pptx)**  
+- **[View PDF Version](./DeepLearning_Meets_DataPrivacy.pdf)**  
 
-Differential Privacy (DP) is a mathematical framework for quantifying and limiting privacy risks when analyzing or sharing data. It ensures that the inclusion or exclusion of a single individual's data does not significantly affect the outcome of any analysis — typically achieved by introducing carefully calibrated randomness.
+---
 
-## ✳️ Core Concepts
+### 🧾 Supporting Documents
+- [Session Notes / Speaker Outline](./docs/Session_Notes.md)  
+- [Key Terms & Definitions](./docs/Glossary.md)  
+- [Summary of Techniques (Differential Privacy, Federated Learning, etc.)](./docs/Techniques_Summary.md)
 
-Privacy Budgets (ε, δ) — quantify privacy loss and guarantee.
+---
 
-Laplace & Gaussian Mechanisms — foundational methods for adding noise.
+### 📖 Research Papers
+- Dwork, C., & Roth, A. (2014). *The Algorithmic Foundations of Differential Privacy*.  
+  [Link](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)  
+- Sweeney, L. (2000). *Simple Demographics Often Identify People Uniquely*.  
+  [Link](https://dataprivacylab.org/projects/identifiability/paper1.pdf)  
+- Shokri, R., et al. (2017). *Membership Inference Attacks Against Machine Learning Models*.  
+  [Link](https://arxiv.org/abs/1610.05820)  
+- Abadi, M., et al. (2016). *Deep Learning with Differential Privacy*.  
+  [Link](https://arxiv.org/abs/1607.00133)
 
-Local vs. Central Differential Privacy — trade-offs between client-side and server-side noise addition.
+---
 
-DP-SGD (Differentially Private Stochastic Gradient Descent) — the cornerstone of DP deep learning.
+### 📰 Blogs & Articles
+- Google AI Blog – [Learning with Privacy at Scale](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)  
+- OpenAI Blog – [Privacy-Preserving Machine Learning](https://openai.com/research/)  
+- Towards Data Science – [Differential Privacy Explained](https://towardsdatascience.com/an-intuitive-explanation-of-differential-privacy-61fef2e6b08a)  
+- MIT Technology Review – [The False Promise of Anonymization](https://www.technologyreview.com/2019/07/23/134706/)
 
-Privacy-Utility Trade-offs — balancing accuracy with privacy guarantees.
+---
 
-## 🧠 Applications
+### 🎥 Talks & Videos
+- [Cynthia Dwork: The Meaning of Differential Privacy (Harvard)](https://www.youtube.com/watch?v=lg-VhHlztqo)  
+- [Google Developers: Federated Learning Explained](https://www.youtube.com/watch?v=89BGjQYA0uE)  
+- [Yoshua Bengio: AI Ethics and Privacy](https://www.youtube.com/watch?v=_wNsZEqpKUA)  
+- [Privacy in Machine Learning (Andrew Trask)](https://www.youtube.com/watch?v=7LCHs9zG4U8)
 
-Secure statistical analysis & data aggregation
+---
 
-Private recommender systems
+### 🧠 Further Reading
+- [The Privacy Engineer’s Manifesto (Book)](https://www.amazon.com/Privacy-Engineers-Manifesto-Getting-Right/dp/1430263555)  
+- [Differential Privacy for Everyone (Apple Whitepaper)](https://www.apple.com/privacy/docs/Differential_Privacy_Overview.pdf)  
+- [Kearns & Roth (2020) – *The Ethical Algorithm*](https://www.ethicalalgorithm-book.com/)
 
-Federated learning with privacy preservation
+---
 
-Differentially private large language models (LLMs)
+### 💡 Citation
+If you use these resources or the talk materials, please cite as:  
+> *[Your Name], “Deep Learning Meets Data Privacy,” (2025), GitHub Repository: [link to your repo]*
 
-Healthcare and sensitive data analytics
+---
 
-## 🧰 Libraries and Codebases
-Library	Language	Description
-Google Differential Privacy Library
-	C++ / Go / Java	Production-grade tools for aggregate data analysis under DP guarantees.
-PipelineDP
-	Python	Framework by OpenMined + Google for end-to-end DP pipelines.
-IBM Diffprivlib
-	Python	Implements DP mechanisms, models, and statistics for research and practical use.
-Apple Differential Privacy
-	Python	Implements Apple's approach to locally DP data collection.
-TensorFlow Privacy
-	Python	TensorFlow toolkit for training ML models with DP-SGD and noise accounting.
-	
-## 📘 Tutorials and Example Models
-Tutorial	Framework	Description
-Flower: Training with Sample-Level Differential Privacy
-	TensorFlow	Federated learning + DP example.
-TensorFlow Privacy Quickstart
-	TensorFlow	Learn DP-SGD and apply privacy accounting.
-Example Notebook Topics
-
-Laplace & Gaussian Mechanisms
-
-DP-SGD for Neural Networks
-
-Local DP for client-side anonymization
-
-Privacy vs. Utility demonstrations
-
-## 🎥 Key YouTube Videos & Playlists
-
-Differential Privacy Explained (Security and Privacy Academy)
-
-A Short Introduction to Differential Privacy
-
-Differential Privacy For Machine Learning In Action (with code)
-
-A Course In Differential Privacy (2025, full playlist)
-
-Tutorial on Differential Privacy
-
-SaTML 2023 – Gautam Kamath: An Introduction to Differential Privacy
-
-## 📄 Research Papers & Resources
-
-Differential Privacy in Machine Learning: From Symbolic AI to LLMs (Survey, 2025)
-
-Recent Advances of Differential Privacy in Centralized Deep Learning (Survey)
-
-Google Research: Differential Privacy on Trust Graphs (ITCS 2025)
-
-VaultGemma: State-of-the-Art Differentially Private LLM (2025)
-
-Harvard Privacy Tools: DP Resources
-
-Utrecht University: Data Privacy Handbook
+### 🧩 Repository Structure Example
