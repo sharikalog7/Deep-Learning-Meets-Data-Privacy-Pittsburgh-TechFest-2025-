@@ -1,5 +1,5 @@
-## 📚 References & Resources  
-*Deep Learning Meets Data Privacy*  
+## 📚 Deep Learning Meets Data Privacy 
+**  
 _A talk on the intersection of modern AI and privacy-preserving technologies_
 This is my first talk on a topic I’m truly passionate about — data privacy in AI. In today’s world, AI systems—from healthcare analytics to chatbots—rely on huge amounts of personal data. But how can we use this data responsibly without putting anyone’s privacy at risk?
 The answer is Differential Privacy (DP) — a smart way to keep data safe while still learning useful patterns from it. In this beginner-friendly session, we’ll explore:
