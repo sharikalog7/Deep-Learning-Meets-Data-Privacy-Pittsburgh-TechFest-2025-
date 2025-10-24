@@ -5,7 +5,7 @@ _A talk on the intersection of modern AI and privacy-preserving technologies_
 ---
 
 ### 🎞️ Presentation
-- **[Download Slides (PPTX)](./[DeepLearning_Meets_DataPrivacy.pptx](https://pitt-my.sharepoint.com/:p:/g/personal/shl309_pitt_edu/EQCqQWOoIQ9HoV0FUAewbh8B9EvrmpGFFUUR2W2LewsY6g?e=XOd8LH))**  
+- **[Download Slides (PPTX)][Link](https://pitt-my.sharepoint.com/:p:/g/personal/shl309_pitt_edu/EQCqQWOoIQ9HoV0FUAewbh8B9EvrmpGFFUUR2W2LewsY6g?e=XOd8LH))**  
 - **[View PDF Version](./DeepLearning_Meets_DataPrivacy.pdf)**  
 
 ---
@@ -26,6 +26,23 @@ _A talk on the intersection of modern AI and privacy-preserving technologies_
   [Link](https://arxiv.org/abs/1610.05820)  
 - Abadi, M., et al. (2016). *Deep Learning with Differential Privacy*.  
   [Link](https://arxiv.org/abs/1607.00133)
+  https://datasciencedojo.com/blog/data-privacy-data-anonymization/​
+
+https://satoricyber.com/data-masking/data-anonymization-use-cases-and-6-common-techniques/​
+
+https://www.k2view.com/what-is-data-anonymization/​
+
+https://www.datacamp.com/blog/what-is-data-anonymization​
+
+https://www.immuta.com/blog/data-anonymization-techniques/​
+
+https://www.imperva.com/learn/data-security/anonymization/​
+
+https://rcd.ucsb.edu/resources/data-resources/anonymizing-protecting​
+
+https://www.coforge.com/what-we-know/blog/top-7-anonymization-techniques-to-sustain-data-privacy-and-compliance-standards​
+
+https://policies.google.com/technologies/anonymization?hl=en-US
 
 ---
 
