@@ -1,5 +1,4 @@
 ## 📚 Deep Learning Meets Data Privacy 
-**  
 _A talk on the intersection of modern AI and privacy-preserving technologies_
 This is my first talk on a topic I’m truly passionate about — data privacy in AI. In today’s world, AI systems—from healthcare analytics to chatbots—rely on huge amounts of personal data. But how can we use this data responsibly without putting anyone’s privacy at risk?
 The answer is Differential Privacy (DP) — a smart way to keep data safe while still learning useful patterns from it. In this beginner-friendly session, we’ll explore:
@@ -36,22 +35,6 @@ By the end of this session, you’ll have a simple, clear understanding of how D
   [Link](https://arxiv.org/abs/1607.00133)
   https://datasciencedojo.com/blog/data-privacy-data-anonymization/​
 
-https://satoricyber.com/data-masking/data-anonymization-use-cases-and-6-common-techniques/​
-
-https://www.k2view.com/what-is-data-anonymization/​
-
-https://www.datacamp.com/blog/what-is-data-anonymization​
-
-https://www.immuta.com/blog/data-anonymization-techniques/​
-
-https://www.imperva.com/learn/data-security/anonymization/​
-
-https://rcd.ucsb.edu/resources/data-resources/anonymizing-protecting​
-
-https://www.coforge.com/what-we-know/blog/top-7-anonymization-techniques-to-sustain-data-privacy-and-compliance-standards​
-
-https://policies.google.com/technologies/anonymization?hl=en-US
-
 ---
 
 ### 📰 Blogs & Articles
@@ -79,8 +62,5 @@ https://policies.google.com/technologies/anonymization?hl=en-US
 
 ### 💡 Citation
 If you use these resources or the talk materials, please cite as:  
-> *[Your Name], “Deep Learning Meets Data Privacy,” (2025), GitHub Repository: [link to your repo]*
+> *[Sharika Loganathan], “Deep Learning Meets Data Privacy,” (2025), GitHub Repository: [https://github.com/sharikalog7/Differential-Privacy]*
 
----
-
-### 🧩 Repository Structure Example
