@@ -25,7 +25,7 @@ By the end of this session, you’ll have a simple, clear understanding of how D
 ---
 
 ### 🧾 Presentation
-- [src/]([https://github.com/<USERNAME>/<REPO>/tree/<BRANCH>/src](https://github.com/sharikalog7/Deep-Learning-Meets-Data-Privacy-Pittsburgh-TechFest-2025-/blob/main/Deep%20Learning%20Meets%20Data%20Privacy.pdf)) — Presentation PDF
+- [data/]([https://github.com/janedoe/awesome-project/tree/main/data](https://github.com/sharikalog7/Deep-Learning-Meets-Data-Privacy-Pittsburgh-TechFest-2025-/blob/main/Deep%20Learning%20Meets%20Data%20Privacy.pdf))
 
 ### 🧾 Supporting Documents
 - [Session Notes / Speaker Outline](./docs/Session_Notes.md)  
