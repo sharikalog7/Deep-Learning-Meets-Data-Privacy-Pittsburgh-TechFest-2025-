@@ -22,8 +22,8 @@ Where it’s already making an impact — in companies like Apple, Google, Micro
 I’ll also share a few real examples like Google’s VaultGemma, Apple’s privacy tools, and easy-to-use libraries such as Opacus and PipelineDP that can help you start experimenting.
 By the end of this session, you’ll have a simple, clear understanding of how Differential Privacy works — and how it helps us build ethical, privacy-first AI systems that protect people and build trust.
 
-### Schedule
 (https://pitttechcounciltechfest2025.sched.com/event/27HZh/deep-learning-meets-data-privacy)
+
 ---
 
 ### 🧾 Presentation
