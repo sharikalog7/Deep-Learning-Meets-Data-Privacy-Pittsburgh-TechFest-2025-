@@ -24,12 +24,6 @@ By the end of this session, you’ll have a simple, clear understanding of how D
 
 ---
 
-### 🎞️ Presentation
-- **[Download Slides (PPTX)][Link](https://pitt-my.sharepoint.com/:p:/g/personal/shl309_pitt_edu/EQCqQWOoIQ9HoV0FUAewbh8B9EvrmpGFFUUR2W2LewsY6g?e=XOd8LH))**  
-- **[View PDF Version](./DeepLearning_Meets_DataPrivacy.pdf)**  
-
----
-
 ### 🧾 Supporting Documents
 - [Session Notes / Speaker Outline](./docs/Session_Notes.md)  
 - [Key Terms & Definitions](./docs/Glossary.md)  
