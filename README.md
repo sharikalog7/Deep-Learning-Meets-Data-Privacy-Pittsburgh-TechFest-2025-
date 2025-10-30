@@ -24,6 +24,9 @@ By the end of this session, you’ll have a simple, clear understanding of how D
 
 ---
 
+### 🧾 Presentation
+- [PDF](./.md) (./Deep Learning Meets Data Privacy.pdf)
+
 ### 🧾 Supporting Documents
 - [Session Notes / Speaker Outline](./docs/Session_Notes.md)  
 - [Key Terms & Definitions](./docs/Glossary.md)  
